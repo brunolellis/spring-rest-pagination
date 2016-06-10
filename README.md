@@ -4,7 +4,7 @@ Spring REST Pagination example
 This is a basic Spring application using pagination and REST API.
 
 1. Compile and run your project using `mvn spring-boot:run`;
-2. Open http://localhost:8080/api/stores/search?q=Epping%20Main%20St
+2. Open <http://localhost:8080/api/stores/search?q=Epping%20Main%20St>
 
 The returned JSON structure is based on Spring Data REST and Page class.
 
